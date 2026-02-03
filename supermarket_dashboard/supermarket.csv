@@ -1,0 +1,46 @@
+﻿Date,Day_of_Week,Transaction_ID,Customer_Type,Age_Group,Store_Region,Category,Subcategory,Unit_Price,Quantity,Promo_Applied,Payment_Method
+3/1/2025,Saturday,2001,Returning,25-34,Urban,Produce,Apples,2.99,3,No,Card
+3/1/2025,Saturday,2002,New,35-44,Urban,Dairy,Milk,3.49,1,Yes,Cash
+3/1/2025,Saturday,2003,Returning,18-24,Suburban,Bakery,Bread,2.79,2,No,Card
+3/1/2025,Saturday,2004,Returning,45-54,Urban,Meat,Chicken Breast,7.99,1,No,Card
+3/1/2025,Saturday,2005,New,25-34,Suburban,Beverages,Orange Juice,4.99,1,Yes,Card
+3/2/2025,Sunday,2006,Returning,35-44,Urban,Snacks,Chips,3.29,2,Yes,Cash
+3/2/2025,Sunday,2007,New,18-24,Rural,Beverages,Soda,1.49,3,No,Card
+3/2/2025,Sunday,2008,Returning,25-34,Urban,Produce,Bananas,0.59,6,No,Card
+3/2/2025,Sunday,2009,Returning,45-54,Suburban,Meat,Ground Beef,6.99,2,Yes,Cash
+3/2/2025,Sunday,2010,New,35-44,Rural,Bakery,Muffins,3.99,1,No,Card
+3/3/2025,Monday,2011,Returning,18-24,Urban,Household,Paper Towels,5.99,1,No,Card
+3/3/2025,Monday,2012,Returning,25-34,Suburban,Dairy,Cheese,4.49,1,Yes,Cash
+3/3/2025,Monday,2013,New,35-44,Urban,Produce,Spinach,2.49,2,No,Card
+3/3/2025,Monday,2014,Returning,45-54,Rural,Snacks,Granola Bars,3.99,1,No,Card
+3/3/2025,Monday,2015,New,25-34,Urban,Beverages,Coffee,7.49,1,Yes,Cash
+3/4/2025,Tuesday,2016,Returning,35-44,Urban,Produce,Grapes,3.99,2,No,Card
+3/4/2025,Tuesday,2017,New,18-24,Suburban,Snacks,Pretzels,2.99,1,No,Cash
+3/4/2025,Tuesday,2018,Returning,25-34,Rural,Meat,Salmon,9.99,1,Yes,Card
+3/4/2025,Tuesday,2019,Returning,45-54,Urban,Bakery,Bagels,3.49,2,No,Cash
+3/4/2025,Tuesday,2020,New,35-44,Suburban,Household,Soap,2.99,1,No,Card
+3/5/2025,Wednesday,2021,Returning,18-24,Urban,Dairy,Yogurt,1.29,4,Yes,Card
+3/5/2025,Wednesday,2022,Returning,25-34,Suburban,Produce,Tomatoes,2.49,3,No,Cash
+3/5/2025,Wednesday,2023,New,35-44,Urban,Meat,Pork Chops,8.49,1,No,Card
+3/5/2025,Wednesday,2024,Returning,45-54,Rural,Beverages,Energy Drink,2.99,2,Yes,Card
+3/5/2025,Wednesday,2025,New,25-34,Urban,Bakery,Cake Slice,4.49,1,No,Cash
+3/6/2025,Thursday,2026,Returning,35-44,Urban,Snacks,Chocolate,2.49,2,No,Card
+3/6/2025,Thursday,2027,New,18-24,Rural,Household,Laundry Detergent,9.99,1,Yes,Cash
+3/6/2025,Thursday,2028,Returning,25-34,Suburban,Produce,Onions,1.29,4,No,Card
+3/6/2025,Thursday,2029,Returning,45-54,Urban,Dairy,Eggs,3.29,1,No,Cash
+3/6/2025,Thursday,2030,New,35-44,Urban,Beverages,Tea,4.29,1,Yes,Card
+3/7/2025,Friday,2031,Returning,18-24,Urban,Meat,Turkey,7.49,1,No,Card
+3/7/2025,Friday,2032,Returning,25-34,Suburban,Bakery,Bread,2.79,1,Yes,Cash
+3/7/2025,Friday,2033,New,35-44,Rural,Snacks,Chips,3.29,2,No,Card
+3/7/2025,Friday,2034,Returning,45-54,Urban,Produce,Apples,2.99,4,No,Cash
+3/7/2025,Friday,2035,New,18-24,Suburban,Beverages,Orange Juice,4.99,1,Yes,Card
+3/8/2025,Saturday,2036,Returning,25-34,Urban,Snacks,Granola Bars,3.99,1,No,Card
+3/8/2025,Saturday,2037,New,35-44,Urban,Bakery,Bagels,3.49,2,Yes,Cash
+3/8/2025,Saturday,2038,Returning,18-24,Rural,Produce,Bananas,0.59,6,No,Card
+3/8/2025,Saturday,2039,Returning,45-54,Urban,Beverages,Soda,1.49,4,No,Card
+3/8/2025,Saturday,2040,New,25-34,Suburban,Household,Paper Towels,5.99,1,Yes,Cash
+3/9/2025,Sunday,2041,Returning,35-44,Urban,Meat,Chicken Breast,7.99,1,No,Card
+3/9/2025,Sunday,2042,New,18-24,Urban,Produce,Spinach,2.49,2,Yes,Card
+3/9/2025,Sunday,2043,Returning,25-34,Suburban,Shoes,Sneakers,39.99,1,No,Cash
+3/9/2025,Sunday,2044,Returning,45-54,Rural,Bakery,Muffins,3.99,2,No,Card
+3/9/2025,Sunday,2045,New,35-44,Urban,Snacks,Pretzels,2.99,1,Yes,Cash
